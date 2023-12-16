@@ -1,0 +1,65 @@
+('C:\\Users\\Pranava '
+ 'Vedagnya\\Documents\\projects\\tapestry-pattern-from-image\\pattern-python\\build\\main\\main.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True},
+ [('PYZ-00.pyz',
+   'C:\\Users\\Pranava '
+   'Vedagnya\\Documents\\projects\\tapestry-pattern-from-image\\pattern-python\\build\\main\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Pranava '
+   'Vedagnya\\Documents\\projects\\tapestry-pattern-from-image\\pattern-python\\build\\main\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Pranava '
+   'Vedagnya\\Documents\\projects\\tapestry-pattern-from-image\\pattern-python\\build\\main\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Pranava '
+   'Vedagnya\\Documents\\projects\\tapestry-pattern-from-image\\pattern-python\\build\\main\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Pranava '
+   'Vedagnya\\Documents\\projects\\tapestry-pattern-from-image\\pattern-python\\build\\main\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\Pranava '
+   'Vedagnya\\Documents\\projects\\tapestry-pattern-from-image\\pattern-python\\build\\main\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Pranava '
+   'Vedagnya\\Documents\\projects\\tapestry-pattern-from-image\\pattern-python\\myenv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Pranava '
+   'Vedagnya\\Documents\\projects\\tapestry-pattern-from-image\\pattern-python\\myenv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\Pranava '
+   'Vedagnya\\Documents\\projects\\tapestry-pattern-from-image\\pattern-python\\myenv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\Pranava '
+   'Vedagnya\\Documents\\projects\\tapestry-pattern-from-image\\pattern-python\\myenv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\Pranava '
+   'Vedagnya\\Documents\\projects\\tapestry-pattern-from-image\\pattern-python\\myenv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('main',
+   'C:\\Users\\Pranava '
+   'Vedagnya\\Documents\\projects\\tapestry-pattern-from-image\\pattern-python\\main.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
